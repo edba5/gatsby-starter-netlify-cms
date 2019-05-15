@@ -97,5 +97,12 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '??'
+    - description: Edgar Want a few tiny batches from different varieties? Try our custom.
+      items:
+        - Edgar
+        - Barrios
+        - Sanchez
+      plan: Edgar
+      price: '160'
 ---
 
