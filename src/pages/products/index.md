@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Nuestro café
+title: Nuestro aroma café
 image: /img/jumbotron.jpg
 heading: What we offer
 description: >-
