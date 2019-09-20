@@ -43,6 +43,11 @@ full_image: /img/sidharth-bhatia-131092-unsplash.jpg
 pricing:
   heading: ''
   description: ''
-  plans: []
+  plans:
+    - description: Semestral
+      items:
+        - Ene-Jun y Jun-Dic
+      plan: Anual
+      price: '0'
 ---
 
