@@ -1,33 +1,30 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: Actualización de teléfonos de la Caseta de Vigilancia
+date: 2019-09-20T14:04:10.000Z
 description: >-
-  The Coffee Taster’s Flavor Wheel, the official resource used by coffee
-  tasters, has been revised for the first time this year.
+  El día de hoy empezamos una campaña para la recolección de los números
+  telefónicos del fraccionamiento, que servirán para introducirlos de manera
+  privada en un Interfone nuevo en la caseta de vigilancia.  
 tags:
-  - flavor
-  - tasting
+  - seguridad
+  - interfon
 ---
-![flavor wheel](/img/tiago-b-1208734-unsplash.jpg)
+![Fracc. Los Alamos](/img/fracc.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+En el interfon contamos ahora con la capacidad de almacenar el número de teléfono de todos los vecinos, con la intención de fortalecer la seguridad del fraccionamiento, para que todas las visitas y proveedores sean anunciados a su llegad al teléfono fijo o celular de cada casa.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+## Campaña para obtener los números para  el Interfon Pro para 400 memorias
 
-## What the updates mean to you
+Personal de la empresa de seguridad APSP que tenemos contratada para el fraccionamiento, empezara a recorrer cada casa para recolectar la información necesaria.  
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+* Nombre de la familia
+* \# Casa
+* Teléfono fijo
+* Celular
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+![](/img/images.jpg)
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+\* Importante: Esta información será privilegiada y solo tendrán conocimiento de la misma, personal de APSP y el Presidente de la Asociación Edgar Barrios.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+De esta manera, tras introducir los números en el Interfon, estos no serán visibles para los guardias de seguridad actuales o futuros.
