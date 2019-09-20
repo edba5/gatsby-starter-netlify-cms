@@ -1,8 +1,8 @@
 ---
 templateKey: product-page
-title: Teléfono de emergencia
+title: Teléfonos de emergencia
 image: /img/sidharth-bhatia-131092-unsplash.jpg
-heading: Lista de teléfonos de emergencia para tu información
+heading: Lista de teléfonos de emergencia en Naucalpan
 description: >-
   En esta pagina incluiremos los teléfonos más relevantes para el
   fraccionamiento.
