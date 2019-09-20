@@ -4,7 +4,7 @@ title: Teléfonos de emergencia
 image: /img/sidharth-bhatia-131092-unsplash.jpg
 heading: Lista de teléfonos de emergencia en Naucalpan
 description: >-
-  En esta página incluiremos los teléfonos más relevantes para el
+  En esta pagina incluiremos los teléfonos más relevantes para el
   fraccionamiento.
 intro:
   blurbs:
@@ -29,13 +29,13 @@ main:
     https://www.gob.mx/911/articulos/llamadas-de-denuncia-como-debes-realizarlas-para-obtener-el-mejor-resultado
   image1:
     alt: ''
-    image: ''
+    image: /img/coffee-gear.png
   image2:
     alt: ''
-    image: ''
+    image: /img/coffee.png
   image3:
     alt: ''
-    image: ''
+    image: /img/coffee-gear.png
 testimonials:
   - author: Seguridad
     quote: Fraccionamiento
