@@ -2,10 +2,11 @@
 templateKey: about-page
 title: Seguridad
 ---
-### Medidas de seguridad para la página
+### Privacidad de datos en nuestra página
 
-Por medidas de seguridad en la pagina no se publicarán nombres o direcciones de los vecinos, miembros de la Asociación de colonos, etc.
+Para mantener privacidad y seguridad de los colonos, en esta pagina no se publicarán nombres o direcciones de vecinos, miembros de la asociación de colonos, etc.
 
-Para cualquier aclaración o comentario sobre la seguridad del fraccionamiento pueden dirigirse con los guardias de seguridad de la caseta.
+En caso de requerir información o para expresar algún comentario sobre la seguridad del fraccionamiento, podrán hacerlo mediante los siguientes métodos: 
 
-También pueden escribir al **correo electrónico** que se encuentra escrito en cada marbete de auto entregado a los colonos que pagan de manera semestral o mensual.
+1. Ponerse en contacto con los **guardias de seguridad** de la caseta en turno.
+2. Escribir al **correo electrónico** que se encuentra en los marbetes semestrales y mensuales, que entregamos a los colonos que se encuentran al corriente en sus pagos.
